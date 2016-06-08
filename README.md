@@ -5,5 +5,6 @@ require
 stringtie
 transdecoder
 hmmer
+cdhit
 ```
 - edit the run.sh 
